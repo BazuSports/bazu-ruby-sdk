@@ -5,7 +5,7 @@ module Bazu
     
     class Client
 
-    	attr_accessor :app_id
+			attr_accessor :app_id
       
       def initialize(app_id)
         @app_id = app_id
