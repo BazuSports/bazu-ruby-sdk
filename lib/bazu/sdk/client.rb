@@ -12,6 +12,8 @@ module Bazu
       end
 
       def with
+
+      end
       
     end
     
